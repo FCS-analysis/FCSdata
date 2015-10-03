@@ -1,0 +1,1 @@
+SymphoTime32: PicoQuant LSM upgrade on an Olympus FV1000 microscope; single channel measurement of a monomeric membrane protein (~ 30kDa) in detergent (DDM) solution, labeled with Atto488. Many thanks to Ms. Victoria Schmidt.
